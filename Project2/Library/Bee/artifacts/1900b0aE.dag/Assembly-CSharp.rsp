@@ -352,7 +352,17 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs"
+"Assets/Challenge 2/Scripts/DetectCollisionsX.cs"
+"Assets/Challenge 2/Scripts/MoveForwardX.cs"
+"Assets/Challenge 2/Scripts/PlayerControllerX.cs"
+"Assets/Challenge 2/Scripts/SpawnManagerX.cs"
+"Assets/Scripts/DestroyBeyondBounds.cs"
+"Assets/Scripts/DestroyOnCollide.cs"
+"Assets/Scripts/MoveAnimalForward.cs"
+"Assets/Scripts/MoveFoodForward.cs"
 "Assets/Scripts/Player.cs"
+"Assets/Scripts/SpawnManager.cs"
 -langversion:9.0
 
 /deterministic
