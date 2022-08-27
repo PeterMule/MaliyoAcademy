@@ -59,7 +59,7 @@
                   <a href="https://bootcamp.maliyo.com/courses/1-exercise-1-driving-simulator/lesson/driving-simulator/"> Driving Simulator </a>
                 </h5>
                 <h6 class="tutor-course-content-list-item-title">
-                  <a href="https://drive.google.com/file/d/19u6V5GFCgCodq8S0ahJFwKze3FBnkCwm/view?usp=sharing"> Driving Simulator Gameplay Video </a>
+                  <a href="https://mega.nz/file/CwISgLLS#uPO3t4meBCALp8BEXfl1KUHKGuCZmkZpW2TZgVXRNJw"> Driving Simulator Gameplay Video </a>
                 </h6>
               </div>
               <div>
@@ -83,7 +83,7 @@
                   <a href="https://bootcamp.maliyo.com/courses/1-exercise-1-driving-simulator/assignments/plane-programming-2/"> Plane Programming </a>
                 </h5>
                 <h6 class="tutor-course-content-list-item-title">
-                  <a href="https://drive.google.com/file/d/1QmGV0EppGmDVefcald81bDqCAGgiUTZO/view?usp=sharing"> Plane Programming Gameplay Video </a>
+                  <a href="https://mega.nz/file/usxWGZaL#ZlyhEgQAdE15_7C_f5bW17W2tIyHk_YjaBqGnQmWn40"> Plane Programming Gameplay Video </a>
                 </h6>
               </div>
               <div>
