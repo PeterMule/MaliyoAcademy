@@ -25,7 +25,7 @@
   </div>
 </div>
 <div class="tutor-course-details-widget tutor-course-details-widget-col-2 tutor-mt-lg-50 tutor-mt-32">
-  <h3 class="tutor-course-details-widget-title tutor-fs-5 tutor-fw-bold tutor-color-black tutor-mb-16"> What Will You Learn? </h3>
+  <h3 class="tutor-course-details-widget-title tutor-fs-5 tutor-fw-bold tutor-color-black tutor-mb-16"> What I Learnt </h3>
   <ul class="tutor-course-details-widget-list tutor-color-black tutor-fs-6 tutor-m-0 tutor-mt-16">
     <li class="tutor-d-flex tutor-mb-12">
       <span class="tutor-icon-bullet-point tutor-color-muted tutor-mt-2 tutor-mr-8 tutor-fs-8"></span>
@@ -57,7 +57,10 @@
                 <span class="tutor-course-content-list-item-icon tutor-icon-document-text tutor-mr-12"></span>
                 <h5 class="tutor-course-content-list-item-title">
                   <a href="https://bootcamp.maliyo.com/courses/1-exercise-1-driving-simulator/lesson/driving-simulator/"> Driving Simulator </a>
-                </h5>
+                </h5> <br>
+                <h4 class="tutor-course-content-list-item-title">
+                  <a href="https://drive.google.com/file/d/19u6V5GFCgCodq8S0ahJFwKze3FBnkCwm/view?usp=sharing"> Driving Simulator Gameplay Video </a>
+                </h4>
               </div>
               <div>
                 <span class="tutor-course-content-list-item-duration tutor-fs-7 tutor-color-muted"></span>
@@ -79,6 +82,9 @@
                 <h5 class="tutor-course-content-list-item-title">
                   <a href="https://bootcamp.maliyo.com/courses/1-exercise-1-driving-simulator/assignments/plane-programming-2/"> Plane Programming </a>
                 </h5>
+                <h4 class="tutor-course-content-list-item-title">
+                  <a href="https://drive.google.com/file/d/1QmGV0EppGmDVefcald81bDqCAGgiUTZO/view?usp=sharing"> Plane Programming Gameplay Video </a>
+                </h4>
               </div>
               <div>
                 <span class="tutor-course-content-list-item-duration tutor-fs-7 tutor-color-muted"></span>
