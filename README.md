@@ -32,7 +32,6 @@
 
 <h3> All Excercises for Maliyo Academy </h3>
 
-https://github.com/PeterMule/MaliyoAcademy/blob/main/Project1/Driving-Simulation-1.png
 <div class="grid-container">
   <div class="item1"><a href="/Project1"> img src="/Project1/Driving-Simulation-1.png" alt="Driving Simulator" width="200"/></a></div>
   <div class="item2">2</div>
