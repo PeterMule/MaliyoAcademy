@@ -57,10 +57,10 @@
                 <span class="tutor-course-content-list-item-icon tutor-icon-document-text tutor-mr-12"></span>
                 <h5 class="tutor-course-content-list-item-title">
                   <a href="https://bootcamp.maliyo.com/courses/1-exercise-1-driving-simulator/lesson/driving-simulator/"> Driving Simulator </a>
-                </h5> <br>
-                <h4 class="tutor-course-content-list-item-title">
+                </h5>
+                <h6 class="tutor-course-content-list-item-title">
                   <a href="https://drive.google.com/file/d/19u6V5GFCgCodq8S0ahJFwKze3FBnkCwm/view?usp=sharing"> Driving Simulator Gameplay Video </a>
-                </h4>
+                </h6>
               </div>
               <div>
                 <span class="tutor-course-content-list-item-duration tutor-fs-7 tutor-color-muted"></span>
@@ -82,9 +82,9 @@
                 <h5 class="tutor-course-content-list-item-title">
                   <a href="https://bootcamp.maliyo.com/courses/1-exercise-1-driving-simulator/assignments/plane-programming-2/"> Plane Programming </a>
                 </h5>
-                <h4 class="tutor-course-content-list-item-title">
+                <h6 class="tutor-course-content-list-item-title">
                   <a href="https://drive.google.com/file/d/1QmGV0EppGmDVefcald81bDqCAGgiUTZO/view?usp=sharing"> Plane Programming Gameplay Video </a>
-                </h4>
+                </h6>
               </div>
               <div>
                 <span class="tutor-course-content-list-item-duration tutor-fs-7 tutor-color-muted"></span>
