@@ -867,7 +867,7 @@ GameObject:
   - component: {fileID: 6885337428670457730}
   m_Layer: 0
   m_Name: Animal_Stag_01
-  m_TagString: Untagged
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -983,4 +983,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4cac26831d6093f469e770031770e02a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  foodObject: {fileID: 8504125334653722034, guid: fd1b8af3a3ab557409d20f4bea0993cd, type: 3}

@@ -18,10 +18,25 @@ public class DestroyOnCollide : MonoBehaviour
     }
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.name.Contains("Food"))
+        //Food has collided with an animal
+        if (other.CompareTag("Food")&& gameObject.CompareTag("Animal"))
         {
             Destroy(other.gameObject);
             if(health > 0)
+            {
+                health--;
+            }
+            else
+            {
+                Destroy(gameObject);
+            }
+
+        }
+        //An Animal has collided with the Player
+        else if (gameObject.CompareTag("Player") && other.CompareTag("Animal"))
+        {
+            Destroy(other.gameObject);
+            if (health > 0)
             {
                 health--;
             }

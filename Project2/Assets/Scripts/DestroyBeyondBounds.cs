@@ -20,12 +20,12 @@ public class DestroyBeyondBounds : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Destroy dogs if x position less than left limit
+        // Destroy if object beyond x limits
         if (transform.position.x < xRangeL || transform.position.x > xRangeR)
         {
             Destroy(gameObject);
         }
-        // Destroy balls if y position is less than bottomLimit
+        // Destroy if object beyond  z limits
         else if (transform.position.z < lheight || transform.position.z > hheight)
         {
             Destroy(gameObject);

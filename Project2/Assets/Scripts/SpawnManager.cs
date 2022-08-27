@@ -14,7 +14,7 @@ public class SpawnManager : MonoBehaviour
     private float lheight = -10.0f;
 
     private float startDelay = 3.0f ;
-    private float spawnInterval = 0.97f;
+    private float spawnInterval = 3.0f;
     void Start()
     {
         InvokeRepeating("SpawnRandomAnimal", startDelay, spawnInterval);
