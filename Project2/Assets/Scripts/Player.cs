@@ -5,8 +5,8 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     // Start is called before the first frame update
-    private float speed = 50.0f;
-    private float width = 20.0f;
+    private float speed = 30.0f;
+    private float width = 23.0f;
     private float hheight = 31.0f;
     private float lheight = -13.0f;
     public GameObject projectilePrefab;

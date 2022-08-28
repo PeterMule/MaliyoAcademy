@@ -5,7 +5,7 @@ using UnityEngine;
 public class MoveFoodForward : MonoBehaviour
 {
     // Start is called before the first frame update
-    public float speed = 45f;
+    private float speed = 70f;
     void Start()
     {
         
@@ -18,7 +18,7 @@ public class MoveFoodForward : MonoBehaviour
         transform.Translate(0,0, Time.deltaTime * speed);
 
         //Rotate the food about its axis
-        transform.Rotate(new Vector3(0, 0, Time.deltaTime * speed * 20),Space.World);
+        transform.Rotate(new Vector3(0, 0, Time.deltaTime * speed * 30),Space.World);
         //transform.RotateAround(transform.position, transform.up, Time.deltaTime * speed);
     }
 }

@@ -7,17 +7,18 @@ public class SpawnManager : MonoBehaviour
     // Start is called before the first frame update'
     public GameObject[] animalPrefabs;
 
-    private float xRangeL = -19.0f;
-    private float xRangeR = 19.0f;
+    public int difficulty = 1;
+    private float xRangeL = -23.0f;
+    private float xRangeR = 23.0f;
 
-    private float hheight = 30.0f;
-    private float lheight = -10.0f;
+    private float hheight = 24.0f;
+    private float lheight = -9.0f;
 
     private float startDelay = 3.0f ;
-    private float spawnInterval = 3.0f;
+    private float spawnInterval = 5.0f;
     void Start()
     {
-        InvokeRepeating("SpawnRandomAnimal", startDelay, spawnInterval);
+        InvokeRepeating("SpawnRandomAnimal", startDelay, spawnInterval/difficulty);
     }
 
     // Update is called once per frame
