@@ -115,7 +115,7 @@
   </div>
 </div>
 <div class="tutor-mt-40">
-  <h3 class="tutor-fs-5 tutor-fw-bold tutor-color-black tutor-mb-24 tutor-course-content-title"> Bonus Features 1 - Share your Work </h3>
+  <h3 class="tutor-fs-5 tutor-fw-bold tutor-color-black tutor-mb-24 tutor-course-content-title"> Bonus Features 2 - Share your Work </h3>
   <div class="tutor-accordion tutor-mt-24">
     <div class="tutor-accordion-item">
       <div class="tutor-accordion-item-body" style="">
