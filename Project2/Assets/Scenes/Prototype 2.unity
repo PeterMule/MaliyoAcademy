@@ -355,7 +355,7 @@ MonoBehaviour:
   - {fileID: 4279958350002616775, guid: 299e97e2ce75f8b49a5bac1553f6c7b9, type: 3}
   - {fileID: 5595198079055125353, guid: 7fb7606d8cde0484fb2d225edcc3a242, type: 3}
   - {fileID: 530159213725999258, guid: f130644e1c8b3b04ba5aa72d8d3eb941, type: 3}
-  difficulty: 6
+  difficulty: 10
 --- !u!4 &348488195
 Transform:
   m_ObjectHideFlags: 0
