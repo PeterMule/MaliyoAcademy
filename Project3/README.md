@@ -52,7 +52,7 @@
                   <a href="https://bootcamp.maliyo.com/courses/3-exercise-3-run-and-jump/lesson/run-jump/"> Run & Jump </a>
                 </h5>
                 <h6 class="tutor-course-content-list-item-title">
-                  <a href="https://mega.nz/file/7pJyjSjJ#jOG_XSPBh0JVjfvjUXbck98ZxmpsrNSo7s0dcKFjugE"> Run & Jump Gameplay Video </a>
+                  <a href="https://mega.nz/file/2xZT1BQA#AjTKCJbuDs-HulxP7fJrEm102iSPIKT6yoGbPrakBeI"> Run & Jump Gameplay Video </a>
                 </h6>
               </div>
               <div>
