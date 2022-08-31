@@ -1,18 +1,19 @@
-# GameUp Africa by Maliyo Gaming : Exercise 2: Feed the Animal  <div id="tutor-course-details-tab-info" class="tutor-tab-item is-active">
+# GameUp Africa by Maliyo Gaming : 3: Exercise 3 – Run and Jump <div id="tutor-course-details-tab-info" class="tutor-tab-item is-active">
   <div class="tutor-course-details-content">
-    <h2 class="tutor-fs-5 tutor-fw-bold tutor-color-black tutor-mb-12"> About Course </h2> Overview: In this Unit, you will program a top-down game with the objective of throwing food to hungry animals - who are stampeding toward you - before they can run past you. In order to do this, you will become much more familiar with some of the most important programming and Unity concepts, including if-then statements, random value generation, arrays, collision detection, prefabs, and instantiation. In completing this Unit, you will learn how to program a basic game with the ability to launch projectiles and manoeuvre the player to keep the game alive. 
+    <h2 class="tutor-fs-5 tutor-fw-bold tutor-color-black tutor-mb-12"> About Course </h2> Overview: In this Unit, you will program a fast-paced endless side-scrolling runner game where the player needs to time jumps over oncoming obstacles to avoid crashing. In creating this prototype, you will learn how to add music and sound effects, completely transforming the experience of your projects. You will also learn how to create dynamic endless repeating backgrounds, which are critical for any side-scrolling games. Finally, you will learn to incorporate particle effects like splatters and explosions, which make your games so much more satisfying to play.
     <hr>
     <h2>Exercise</h2>
-    <p>Learn to implement <strong>basic gameplay</strong> with this top-down game where you throw food at animals, who are charging towards you</p>
+    <p>Learn to add <strong>sound, </strong><strong>animation, &amp; effects </strong>with this side-scrolling game where the player needs to time their jumps over on-coming obstacles</p>
     <hr>
     <h2>Objective</h2>
     <ul>
-    <li>Learn how to implement basic gameplay logic and understand prefabs</li>
-    <li>Learn how to randomly generate values to randomize spawn positions</li>
+    <li>Learn how to use physics in different ways</li>
+    <li>Learn how to bring animations to life</li>
+    <li>Learn how to play music and sound effects in-game</li>
     </ul>
     <hr>
     <h2>Access Learning Material</h2>
-    <h4><a href="https://learn.unity.com/project/unit-2-basic-gameplay?courseId=5cf96c41edbc2a2ca6e8810f" target="_blank" rel="noopener"><em><span style="color: #ff0000;"><span style="text-decoration: underline;">Feed the Animal</span></span></em></a></h4>
+    <h4><a href="https://learn.unity.com/project/unit-3-sound-and-effects?courseId=5cf96c41edbc2a2ca6e8810f" target="_blank" rel="noopener"><span style="text-decoration: underline;"><span style="color: #ff0000;"><i>Run &amp; Jump</i></span></span></a></h4>
 
   </div>
 </div>
@@ -21,28 +22,24 @@
   <ul class="tutor-course-details-widget-list tutor-color-black tutor-fs-6 tutor-m-0 tutor-mt-16">
     <li class="tutor-d-flex tutor-mb-12">
       <span class="tutor-icon-bullet-point tutor-color-muted tutor-mt-2 tutor-mr-8 tutor-fs-8"></span>
-      <span>Started creating custom functions and the use of colliders and</span>
+      <span>
+        Understood how to add music, sound, and particle effects</span>
     </li>
     <li class="tutor-d-flex tutor-mb-12">
       <span class="tutor-icon-bullet-point tutor-color-muted tutor-mt-2 tutor-mr-8 tutor-fs-8"></span>
-      <span>Learnt the use of if-statements, operators, arrays, keycodes</span>
+      <span>Learnt how to apply compare tag and create a dynamic repeat background</span>
     </li>
     <li class="tutor-d-flex tutor-mb-12">
       <span class="tutor-icon-bullet-point tutor-color-muted tutor-mt-2 tutor-mr-8 tutor-fs-8"></span>
-      <span>Understond how to change the camera’s projection</span>
-    </li>
-        <li class="tutor-d-flex tutor-mb-12">
-      <span class="tutor-icon-bullet-point tutor-color-muted tutor-mt-2 tutor-mr-8 tutor-fs-8"></span>
-      <span>Discovered how to spawn random objects</span>
-    </li>
+      <span>Used animation controllers and explore different layers and states.</span>
   </ul>
 </div>
 <div class="tutor-mt-40">
   <h3 class="tutor-fs-5 tutor-fw-bold tutor-color-black tutor-mb-24 tutor-course-content-title"> Course Content </h3>
   <div class="tutor-accordion tutor-mt-24">
     <div class="tutor-accordion-item">
-      <h4 class="tutor-accordion-item-header is-active"> Exercise 1 <div class="tooltip-wrap tooltip-icon">
-          <span class="tooltip-txt tooltip-right">Driving Simulator</span>
+      <h4 class="tutor-accordion-item-header is-active"> Exercise 3 <div class="tooltip-wrap tooltip-icon">
+          <span class="tooltip-txt tooltip-right">Run & Jump</span>
         </div>
       </h4>
       <div class="tutor-accordion-item-body" style="">
@@ -52,10 +49,10 @@
               <div class="tutor-d-flex tutor-align-center">
                 <span class="tutor-course-content-list-item-icon tutor-icon-document-text tutor-mr-12"></span>
                 <h5 class="tutor-course-content-list-item-title">
-                  <a href="https://bootcamp.maliyo.com/courses/2-exercise-2-feed-the-animal/lesson/feed-the-animal/"> Feed the Animal </a>
+                  <a href="https://bootcamp.maliyo.com/courses/3-exercise-3-run-and-jump/lesson/run-jump/"> Run & Jump </a>
                 </h5>
                 <h6 class="tutor-course-content-list-item-title">
-                  <a href="https://mega.nz/file/7pJyjSjJ#jOG_XSPBh0JVjfvjUXbck98ZxmpsrNSo7s0dcKFjugE"> Feed the Animal Gameplay Video </a>
+                  <a href="https://mega.nz/file/7pJyjSjJ#jOG_XSPBh0JVjfvjUXbck98ZxmpsrNSo7s0dcKFjugE"> Run & Jump Gameplay Video </a>
                 </h6>
               </div>
               <div>
@@ -68,7 +65,7 @@
       </div>
     </div>
     <div class="tutor-accordion-item">
-      <h4 class="tutor-accordion-item-header"> Challenge 1 </h4>
+      <h4 class="tutor-accordion-item-header"> Challenge 3 </h4>
       <div class="tutor-accordion-item-body" style="display: none;">
         <div class="tutor-accordion-item-body-content">
           <ul class="tutor-course-content-list">
@@ -76,10 +73,11 @@
               <div class="tutor-d-flex tutor-align-center">
                 <span class="tutor-course-content-list-item-icon tutor-icon-document-text tutor-mr-12"></span>
                 <h5 class="tutor-course-content-list-item-title">
-                  <a href="https://bootcamp.maliyo.com/courses/1-exercise-1-driving-simulator/assignments/plane-programming-2/"> Play Fetch </a> + Bonus: The spawn interval is always the same and Bonus: The player can “spam” the spacebar key
+                  <a href="https://bootcamp.maliyo.com/courses/3-exercise-3-run-and-jump/assignments/balloons-bombs-booleans/"> 
+Balloons, Bombs & Booleans </a> + Bonus: The balloon can float way too high and Bonus: The balloon can drop below the ground
                 </h5>
                 <h6 class="tutor-course-content-list-item-title">
-                  <a href="https://mega.nz/file/uxhkhb5J#AWYED-x3KSS9zQdzRTLg5yurFRmC3QoDXhqtmuHWrfs"> Play Fetch Gameplay Video </a>
+                  <a href="https://mega.nz/file/epBTjSKa#mH7OZP7clKtQFiPc1Gb5-uh9myVuCKm041AGVYDoWz4"> Balloons, Bombs & Booleans Gameplay Video </a>
                 </h6>
               </div>
               <div>
@@ -92,7 +90,7 @@
       </div>
     </div>
     <div class="tutor-accordion-item">
-      <h4 class="tutor-accordion-item-header"> Quiz 2 </h4>
+      <h4 class="tutor-accordion-item-header"> Quiz 3 </h4>
       <div class="tutor-accordion-item-body" style="display: none;">
         <div class="tutor-accordion-item-body-content">
           <ul class="tutor-course-content-list">
@@ -100,7 +98,7 @@
               <div class="tutor-d-flex tutor-align-center">
                 <span class="tutor-course-content-list-item-icon tutor-icon-circle-question-mark tutor-mr-12"></span>
                 <h5 class="tutor-course-content-list-item-title">
-                  <a href="https://bootcamp.maliyo.com/courses/2-exercise-2-feed-the-animal/tutor_quiz/quiz-2/"> Quiz 2 </a>
+                  <a href="https://bootcamp.maliyo.com/courses/3-exercise-3-run-and-jump/tutor_quiz/quiz-3/"> Quiz 3 </a>
                 </h5>
               </div>
               <div>
@@ -115,7 +113,7 @@
   </div>
 </div>
 <div class="tutor-mt-40">
-  <h3 class="tutor-fs-5 tutor-fw-bold tutor-color-black tutor-mb-24 tutor-course-content-title"> Bonus Features 2 - Share your Work </h3>
+  <h3 class="tutor-fs-5 tutor-fw-bold tutor-color-black tutor-mb-24 tutor-course-content-title"> Bonus Features 4 - Share your Work </h3>
   <div class="tutor-accordion tutor-mt-24">
     <div class="tutor-accordion-item">
       <div class="tutor-accordion-item-body" style="">
@@ -125,7 +123,7 @@
               <div class="tutor-d-flex tutor-align-center">
                 <span class="tutor-course-content-list-item-icon tutor-icon-document-text tutor-mr-12"></span>
                 <h5 class="tutor-course-content-list-item-title">
-                  Easy: Vertical player movement
+                  Easy: Randomize obstacles
                 </h5>
               </div>
               <div>
@@ -137,7 +135,7 @@
               <div class="tutor-d-flex tutor-align-center">
                 <span class="tutor-course-content-list-item-icon tutor-icon-document-text tutor-mr-12"></span>
                 <h5 class="tutor-course-content-list-item-title">
-                  Medium: Aggressive animals
+                  Medium: Double jump
                 </h5>
               </div>
               <div>
@@ -149,7 +147,7 @@
               <div class="tutor-d-flex tutor-align-center">
                 <span class="tutor-course-content-list-item-icon tutor-icon-document-text tutor-mr-12"></span>
                 <h5 class="tutor-course-content-list-item-title">
-                  Hard: Game user interface
+                  Hard: Dash ability and score
                 </h5>
               </div>
               <div>
@@ -161,7 +159,7 @@
               <div class="tutor-d-flex tutor-align-center">
                 <span class="tutor-course-content-list-item-icon tutor-icon-document-text tutor-mr-12"></span>
                 <h5 class="tutor-course-content-list-item-title">
-                  Expert: Animal hunger bar
+                  Expert: Game start animation
                 </h5>
               </div>
               <div>

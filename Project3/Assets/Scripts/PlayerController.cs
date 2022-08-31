@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour
     private bool walkingInn;
     private int score ;
     private int highscore ;
-    private int scoreMultiplyer = 2;
+    private int scoreMultiplyer = 1;
     private float[] speedModes = { 22f, 33f };
     private float walkspeed = 1.5f;
 
@@ -43,7 +43,7 @@ public class PlayerController : MonoBehaviour
         gamespeed = 0f;
         gravityModifier = 2.0f;
         Physics.gravity *= gravityModifier;
-        jumpForce = 700;
+        jumpForce = 620;
         isOnGround = true;
         isDoubleJumped = false;
         score = 0;
@@ -129,8 +129,9 @@ public class PlayerController : MonoBehaviour
     {
         if(!gameOver)
         {
+            
             playerAudioSource.PlayOneShot(jumpSound);
-            playerRb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+            playerRb.AddForce(!isOnGround && !isDoubleJumped? Vector3.up * (jumpForce / 10): Vector3.up * jumpForce, ForceMode.Impulse);
             isOnGround = false;
             playerAnimator.SetTrigger("Jump_trig");
             dirtParticle.Stop();

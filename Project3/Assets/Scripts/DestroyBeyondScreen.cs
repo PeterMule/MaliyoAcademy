@@ -16,7 +16,7 @@ public class DestroyBeyondScreen : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //Check if Obstacle is beyonf screen limits
+        //Check if Obstacle is beyond screen limits
         if(gameObject.CompareTag("Obstacle") && transform.position.x < leftLimit)
         {
             Destroy(gameObject);
