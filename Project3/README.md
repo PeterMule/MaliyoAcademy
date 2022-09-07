@@ -52,7 +52,7 @@
                   <a href="https://bootcamp.maliyo.com/courses/3-exercise-3-run-and-jump/lesson/run-jump/"> Run & Jump </a>
                 </h5>
                 <h6 class="tutor-course-content-list-item-title">
-                  <a href="https://mega.nz/file/7pJyjSjJ#jOG_XSPBh0JVjfvjUXbck98ZxmpsrNSo7s0dcKFjugE"> Run & Jump Gameplay Video </a>
+                  <a href="https://mega.nz/file/2xZT1BQA#AjTKCJbuDs-HulxP7fJrEm102iSPIKT6yoGbPrakBeI"> Run & Jump Gameplay Video </a>
                 </h6>
               </div>
               <div>
@@ -113,7 +113,7 @@ Balloons, Bombs & Booleans </a> + Bonus: The balloon can float way too high and 
   </div>
 </div>
 <div class="tutor-mt-40">
-  <h3 class="tutor-fs-5 tutor-fw-bold tutor-color-black tutor-mb-24 tutor-course-content-title"> Bonus Features 4 - Share your Work </h3>
+  <h3 class="tutor-fs-5 tutor-fw-bold tutor-color-black tutor-mb-24 tutor-course-content-title"> Bonus Features 3 - Share your Work </h3>
   <div class="tutor-accordion tutor-mt-24">
     <div class="tutor-accordion-item">
       <div class="tutor-accordion-item-body" style="">
