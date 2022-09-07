@@ -103,7 +103,7 @@ Football Scripting </a> + Bonus: The player needs a turbo boost and Bonus: The e
               <div class="tutor-d-flex tutor-align-center">
                 <span class="tutor-course-content-list-item-icon tutor-icon-circle-question-mark tutor-mr-12"></span>
                 <h5 class="tutor-course-content-list-item-title">
-                  <a href="https://bootcamp.maliyo.com/courses/4-exercise-4-sumo-battle/tutor_quiz/quiz-4/"> Quiz 3 </a>
+                  <a href="https://bootcamp.maliyo.com/courses/4-exercise-4-sumo-battle/tutor_quiz/quiz-4/"> Quiz 4 </a>
                 </h5>
               </div>
               <div>
