@@ -1,13 +1,18 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class SpawnManager : MonoBehaviour
 {
     public GameObject enemyPreFab;
+    public GameObject bossEnemyPreFab;
     public GameObject powerupPreFab;
+
+    public Text levelIndicator;
     private float spawnLimit = 9.0f;
-    private int enemiesToSpawn = 3;
+    private int enemiesToSpawn = 1;
+    private int level = 1;
 
     // Start is called before the first frame update
     void Start()
@@ -27,21 +32,35 @@ public class SpawnManager : MonoBehaviour
     }
     void SpawnEnemyWave()
     {
-        for(int i = 0; i< enemiesToSpawn;i++)
+        WriteLevel();
+        if (level%2 != 0)
         {
-            SpawnEnemy();
+            for (int i = 0; i < enemiesToSpawn; i++)
+            {
+                SpawnEnemy();
+            }
+            SpawnPowerUp();
         }
-        SpawnPowerUp();
+        else
+        {
+            SpawnBoss();
+        }
         enemiesToSpawn++;
+        level++;
     }
     void SpawnPowerUp()
     {
         Instantiate(powerupPreFab, GenerateSpawnPoint(), enemyPreFab.transform.rotation);
     }
-
+    void SpawnBoss()
+    {
+        Instantiate(bossEnemyPreFab, GenerateSpawnPoint(), enemyPreFab.transform.rotation);
+    }
     void SpawnEnemy()
     {
-        Instantiate(enemyPreFab, GenerateSpawnPoint(), enemyPreFab.transform.rotation);
+        GameObject en = Instantiate(enemyPreFab, GenerateSpawnPoint(), enemyPreFab.transform.rotation);
+        Enemy enem = en.GetComponent<Enemy>();
+        enem.AddSpeed((level - 1f) * 0.3f);
     }
     private Vector3 GenerateSpawnPoint()
     {
@@ -49,5 +68,9 @@ public class SpawnManager : MonoBehaviour
                                                 0,
                                                 Random.Range(-spawnLimit, spawnLimit));
         return spawnLocation;
+    }
+    private void WriteLevel()
+    {
+        levelIndicator.text = "Level " + level;
     }
 }
