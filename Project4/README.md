@@ -57,7 +57,7 @@
                   <a href="https://bootcamp.maliyo.com/courses/4-exercise-4-sumo-battle/"> Sumo Battle </a>
                 </h5>
                 <h6 class="tutor-course-content-list-item-title">
-                  <a href="?"> Sumo Battle Gameplay Video </a>
+                  <a href="https://mega.nz/file/T0YjDaDY#oMppy9LQS_-lG-88ID_WaquPUyD319kHGQurukwRB40"> Sumo Battle Gameplay Video </a>
                 </h6>
               </div>
               <div>
@@ -82,7 +82,7 @@
 Football Scripting </a> + Bonus: The player needs a turbo boost and Bonus: The enemies never get more difficult
                 </h5>
                 <h6 class="tutor-course-content-list-item-title">
-                  <a href="?"> Football Scripting Gameplay Video </a>
+                  <a href="https://mega.nz/file/O0gz3RBJ#XfvYR9Vh8oq9LWd-K5_806tDuJvWhJjdbawlzciKugY"> Football Scripting Gameplay Video </a>
                 </h6>
               </div>
               <div>
