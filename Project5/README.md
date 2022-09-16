@@ -52,7 +52,7 @@
                   <a href="https://bootcamp.maliyo.com/courses/5-exercise-5-quick-click/lesson/quick-click/"> Quick Click </a>
                 </h5>
                 <h6 class="tutor-course-content-list-item-title">
-                  <a href="?"> Quick Click Gameplay Video </a>
+                  <a href="https://mega.nz/file/WkhlTRIS#2VhdY-InDVSUmOfL7hYTIioD9JFY9lD9d-NL6W6NIEo"> Quick Click Gameplay Video </a>
                 </h6>
               </div>
               <div>
@@ -77,7 +77,7 @@
 Whack a Food </a> + Bonus: The game can go on forever
                 </h5>
                 <h6 class="tutor-course-content-list-item-title">
-                  <a href="?"> Whack a Food Gameplay Video </a>
+                  <a href="https://mega.nz/file/H44RRSDJ#dXvKwP_pbd6uktCBPE8CtpuB5lXGM-ZiXLLl_pD4wGA"> Whack a Food Gameplay Video </a>
                 </h6>
               </div>
               <div>
