@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ef52c82cf197e154dbd2284c3b3defaf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tilePrefab: {fileID: 7183648849418030070, guid: a42a62cdeeed66844aef84e1ea3a5284, type: 3}
+  - wallPrefab: {fileID: 465512016902137324, guid: e855838ae33968d41861f45de77d3f4f, type: 3}
+  - ballPrefab: {fileID: 2660595533136883393, guid: eed73f225c4e82f4abb7e507a1d86de4, type: 3}
+  - levelIndicator: {instanceID: 0}
+  - bgController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
